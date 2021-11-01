@@ -1,20 +1,18 @@
 .box1 {
-  position: fixed;
-  top: 0px;
+  position:fixed;
+  top:0px;
   background-color:#249428 ;
   height:46px;
-  left: 0px;
-  right: 0px;
-  overflow: hidden;
-}
+  left:0px;
+  right:0px;
+  overflow:hidden;}
 .box1 a{
-float: left;
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-  font-weight:  bold;
-  font-family: Arial;
-  font-size:18px 
-}
+  float:left;
+  display:block;
+  color:black;
+  text-align:center;
+  padding:14px;
+  text-decoration:none;
+  font-weight:bold;
+  font-family:Arial;
+  font-size:18px}
