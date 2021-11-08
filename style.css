@@ -35,11 +35,11 @@ body{
   height:80px;
   margin-left:25%;
   margin-right:25%;
+  padding:25px;
   overflow:hidden;}
 .box3 a{
   color:black;
   text-align:center;
-  padding:30px;
   text-decoration:none;
   font-weight:bold;
   font-family:Arial;
