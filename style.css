@@ -22,3 +22,8 @@
   bottom:20%;
   left: 10%;
   right: 10%;}
+body{
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background: url("https://styleyard.de/wp-content/uploads/2017/12/Buchtipp.jpg");
+  background-size: cover;}
