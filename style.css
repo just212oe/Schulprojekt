@@ -3,8 +3,8 @@
   top:0px;
   background-color:#249428 ;
   height:60px;
-  margin-left:0px;
-  margin-right:0px;
+  left:0px;
+  right:0px;
   overflow:hidden;}
 .box1 a{
   float:left;
@@ -18,9 +18,9 @@
   font-size:24px}
 .box2 {
   position:absolute;
-  margin-top:15%;
-  margin-left: 20%;
-  margin-right: 20%;
+  top:15%;
+  left: 20%;
+  right: 20%;
   background-color: white;}
 body{
   background-attachment: fixed;
@@ -29,8 +29,8 @@ body{
   background-size: cover;}
 .box3 {
   position:absolute;
-  margin-top:16%;
-  margin-left:25%;
+  top:16%;
+  left:25%;
   width: 50%;
   padding:25px;
   background-color:#249428;
