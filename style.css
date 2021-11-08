@@ -31,7 +31,7 @@ body{
   position:absolute;
   margin-top:16%;
   margin-left:25%;
-  margin-right:25%;
+  width: 50%;
   padding:25px;
   background-color:#249428;
   height:80px;
