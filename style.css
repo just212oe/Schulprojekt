@@ -27,3 +27,19 @@ body{
   background-repeat: no-repeat;
   background: url("https://styleyard.de/wp-content/uploads/2017/12/Buchtipp.jpg");
   background-size: cover;}
+.box3 {
+  position:absolute;
+  top:20%;
+  background-color:#249428 ;
+  height:80px;
+  left:25%;
+  right:25%;}
+.box1 a{
+  display:block;
+  color:black;
+  text-align:center;
+  padding:25px;
+  text-decoration:none;
+  font-weight:bold;
+  font-family:Arial;
+  font-size:30px}
