@@ -30,12 +30,11 @@ body{
 .box3 {
   position:absolute;
   top:20%;
-  background-color:#249428 ;
+  background-color:#249428;
   height:80px;
   left:25%;
   right:25%;}
 .box3 a{
-  display:block;
   color:black;
   text-align:center;
   padding:25px;
