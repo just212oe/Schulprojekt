@@ -40,7 +40,7 @@ body{
   height:80px;
   overflow:hidden;
   text-align:center;
-  word-spacing: normal}
+  word-spacing: 1em}
 .box3 a{
   color:black;
   text-decoration:none;
@@ -59,7 +59,8 @@ body{
   left:0px;
   right:0px;
   padding:18px;
-  overflow:hidden;}
+  overflow:hidden;
+word-spacing: 1em;}
 .box5 a{
   color:black;
   text-align:left;
@@ -78,7 +79,7 @@ body{
   background-color:white;
   overflow:hidden;
   text-align:center;
-  word-spacing:normal}
+  word-spacing: 1em;}
 .box6 a{
   color:black;
   text-decoration:none;
