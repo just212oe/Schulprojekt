@@ -34,7 +34,8 @@ body{
   background-color:#249428;
   height:80px;
   left:25%;
-  right:25%;}
+  right:25%;
+  overflow:hidden;}
 .box3 a{
   color:black;
   text-align:center;
