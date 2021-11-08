@@ -52,7 +52,7 @@ body{
 .box4 {}
 
 .box5 {
-  position:absolute;
+  position:fixed;
   background-color:#249428;
   bottom:0px;
   height:60px;
