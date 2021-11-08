@@ -73,15 +73,15 @@ body{
   top:16%;
   left:25%;
   width:50%;
-  height:30%;
+  height:55%;
   padding:25px;
   background-color:white;
   overflow:hidden;
   text-align:center;
-  word-spacing: normal}
+  word-spacing:normal}
 .box6 a{
   color:black;
-  text-decoration: none;
+  text-decoration:none;
   font-weight:bold;
   font-family:Arial;
   font-size:24px;}
