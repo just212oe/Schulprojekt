@@ -1,3 +1,9 @@
+body{
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background: url("https://styleyard.de/wp-content/uploads/2017/12/Buchtipp.jpg");
+  background-size: cover;}
+
 .box1 {
   position:fixed;
   top:0px;
@@ -16,17 +22,14 @@
   font-weight:bold;
   font-family:Arial;
   font-size:24px}
+
 .box2 {
   position:absolute;
   top:15%;
   left: 20%;
   right: 20%;
   background-color: white;}
-body{
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background: url("https://styleyard.de/wp-content/uploads/2017/12/Buchtipp.jpg");
-  background-size: cover;}
+
 .box3 {
   position:absolute;
   top:16%;
@@ -44,6 +47,7 @@ body{
   font-family:Arial;
   font-size:30px;
   white-space: nowrap;}
+
 .box5 {
   position:absolute;
   bottom:0px;
