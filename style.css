@@ -31,11 +31,11 @@ body{
 .box3 {
   position:absolute;
   margin-top:16%;
-  background-color:#249428;
-  height:80px;
   margin-left:25%;
   margin-right:25%;
   padding:25px;
+  background-color:#249428;
+  height:80px;
   overflow:hidden;}
 .box3 a{
   color:black;
