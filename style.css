@@ -67,3 +67,16 @@ body{
   font-weight:bold;
   font-family:Arial;
   font-size:24px;}
+
+.box6 {
+  position:absolute;
+  top:16%;
+  left:25%;
+  width:50%;
+  height:30%;
+  padding:25px;
+  background-color:white;
+  overflow:hidden;
+  text-align:center;
+  word-spacing: normal}
+  
