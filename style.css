@@ -25,7 +25,7 @@ body{
   font-size:24px;}
 
 .box2 {
-  z-index:2;
+  z-index:3;
   position:absolute;
   top:15%;
   left: 20%;
@@ -34,7 +34,6 @@ body{
   padding: 7px;}
 
 .box3 {
-  z-index:4;
   position:absolute;
   top:16%;
   left:25%;
@@ -76,7 +75,6 @@ word-spacing: 1em;}
   font-size:24px;}
 
 .box6 {
-  z-index:7;
   position:absolute;
   top:16%;
   left:25%;
@@ -94,7 +92,7 @@ word-spacing: 1em;}
   font-family:Arial;
   font-size:24px;}
   
-.box7 {z-index:6;
+.box7 {
   position:absolute;
   top:16%;
   left:25%;
