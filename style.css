@@ -4,6 +4,9 @@ body{
   background: url("https://styleyard.de/wp-content/uploads/2017/12/Buchtipp.jpg");
   background-size: cover;}
 
+table{
+  border-style: none;}
+
 .box1 {
   z-index:2;
   position:fixed;
