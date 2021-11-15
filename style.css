@@ -5,7 +5,9 @@ body{
   background-size: cover;}
 
 table{
-  border-style: none;}
+  border-style: none;
+  padding-left: 10px;
+  font-size:16px;}
 
 .box1 {
   z-index:2;
