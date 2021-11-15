@@ -10,7 +10,8 @@ table{
   font-size:16px;}
 
 h1{
-  text-decoration: underline;}
+  text-decoration: underline;
+  color: #64FE2E}
 
 .box1 {
   z-index:2;
