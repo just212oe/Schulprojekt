@@ -34,8 +34,9 @@ table{
   left: 20%;
   right: 20%;
   background-color: white;
-  padding: 7px;
-  padding-bottom: 60px;}
+  padding-bottom: 90px;
+  padding-top: 7px;
+  padding-left: 7px;}
 
 .box3 {
   z-index:1;
