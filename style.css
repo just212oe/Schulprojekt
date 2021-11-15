@@ -40,7 +40,7 @@ body{
   height:80px;
   overflow:hidden;
   text-align:center;
-  word-spacing: 1em}
+  word-spacing: 1em;}
 .box3 a{
   color:black;
   text-decoration:none;
@@ -93,11 +93,10 @@ word-spacing: 1em;}
   left:25%;
   width: 50%;
   padding:25px;
-  background-color:#249428;
+  background-color:white;
   height:68%;
   overflow:hidden;
-  text-align:center;
-  word-spacing: 1em}
+  text-align:center;}
 .box7 a{
   color:black;
   text-decoration:none;
