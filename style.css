@@ -9,6 +9,9 @@ table{
   padding-left: 10px;
   font-size:16px;}
 
+h1{
+  text-decoration: underline;}
+
 .box1 {
   z-index:2;
   position:fixed;
