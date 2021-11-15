@@ -65,8 +65,9 @@ h1{
   white-space: nowrap;}
 
 .box4 {
-z-index:2;
-top:40%;}
+  position:absolute;
+  z-index:2;
+  top:40%;}
 
 .box5 {
   z-index:2;
