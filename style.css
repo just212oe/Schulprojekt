@@ -11,7 +11,7 @@ table{
 
 h1{
   text-decoration: underline;
-  color: #64FE2E}
+  color: #249428;}
 
 .box1 {
   z-index:2;
@@ -96,7 +96,6 @@ top:40%;}
   padding:25px;
   background-color:white;
   height:50%;
-  overflow:hidden;
   text-align:center;}
 .box6 a{
   color:black;
@@ -115,7 +114,6 @@ top:40%;}
   padding:25px;
   background-color:white;
   height:30%;
-  overflow:hidden;
   text-align:center;}
 .box7 a{
   color:black;
@@ -134,7 +132,6 @@ top:40%;}
   padding:25px;
   background-color:white;
   height:30%;
-  overflow:hidden;
   text-align:center;}
 .box8 a{
   color:black;
@@ -153,7 +150,6 @@ top:40%;}
   padding:25px;
   background-color:white;
   height:30%;
-  overflow:hidden;
   text-align:center;}
 .box9 a{
   color:black;
