@@ -156,10 +156,11 @@ top:40%;}
   white-space: nowrap;}
 
 .box10{
+  position:absolute;
   background-color:#249428;
-  top:30%;
+  top:35%;
   left:30%;
   width:40%;
-  height:40%;
+  height:30%;
   font-size:16px;
   padding: 20px;}
