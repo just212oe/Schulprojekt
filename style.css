@@ -5,6 +5,7 @@ body{
   background-size: cover;}
 
 .box1 {
+  z-index:1;
   position:fixed;
   top:0px;
   background-color:#249428 ;
@@ -24,6 +25,7 @@ body{
   font-size:24px;}
 
 .box2 {
+  z-index:2;
   position:absolute;
   top:15%;
   left: 20%;
@@ -32,6 +34,7 @@ body{
   padding: 7px;}
 
 .box3 {
+  z-index:4;
   position:absolute;
   top:16%;
   left:25%;
@@ -50,9 +53,11 @@ body{
   font-size:30px;
   white-space: nowrap;}
 
-.box4 {}
+.box4 {
+z-index:5;}
 
 .box5 {
+  z-index:2;
   position:fixed;
   background-color:#249428;
   bottom:0px;
@@ -71,6 +76,7 @@ word-spacing: 1em;}
   font-size:24px;}
 
 .box6 {
+  z-index:7;
   position:absolute;
   top:16%;
   left:25%;
@@ -88,7 +94,7 @@ word-spacing: 1em;}
   font-family:Arial;
   font-size:24px;}
   
-.box7 {
+.box7 {z-index:6;
   position:absolute;
   top:16%;
   left:25%;
