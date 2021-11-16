@@ -13,10 +13,9 @@ h1{
   text-decoration: underline;
   color: #249428;}
 
-h2{
+h4{
   text-decoration: underline;
-  color: #249428;
-  font-size: 33px;}
+  color: #249428;}
 
 .box1 {
   z-index:2;
